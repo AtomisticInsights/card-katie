@@ -1,4 +1,4 @@
-baseurl: "https://katiek.atomisticinsights.com"
+url: "https://katiek.atomisticinsights.com"
 
 # Theme
 remote_theme: epidrome/cover-card@main
